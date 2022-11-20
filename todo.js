@@ -88,13 +88,11 @@ module.exports = todoList;
 // var formattedOverdues = todos.toDisplayableList(overdues);
 // console.log(formattedOverdues);
 // console.log("\n\n");
-
 // console.log("Due Today");
 // let itemsDueToday = todos.dueToday();
 // let formattedItemsDueToday = todos.toDisplayableList(itemsDueToday);
 // console.log(formattedItemsDueToday);
 // console.log("\n\n");
-
 // console.log("Due Later");
 // let itemsDueLater = todos.dueLater();
 // let formattedItemsDueLater = todos.toDisplayableList(itemsDueLater);
